@@ -45,6 +45,12 @@ I am a Passionate Flutter Developer <img src="https://media.giphy.com/media/WUlp
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40"/>&nbsp;
 </div>
 
+### :link: Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisa-fatima-55679a227)
+[![Instagram](https://img.shields.io/badge/Instagram-royal?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nisafatima_369)
+[![Facebook](https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nisafatima369?mibextid=ZbWKwL)
+
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisa-fatima369&theme=dark&background=000000)](https://git.io/streak-stats)
 
