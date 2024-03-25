@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/nisafatima_369">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.facebook.com/share/rf4szLwMMJzvPGYw/?mibextid=qi2Omg">
+  <a href="https://www.facebook.com/nisafatima369?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-aqua?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
